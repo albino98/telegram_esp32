@@ -71,6 +71,7 @@ For the creation of the telegram bot there are many online guides that explain h
 ![7](https://user-images.githubusercontent.com/63566699/108888642-f90c9000-760b-11eb-9130-702b6cecd27a.jpg)
 
 # Arduino Ide configuration
+![Screenshot (2)](https://user-images.githubusercontent.com/63566699/109691949-3fbc3600-7b88-11eb-808d-0f3ad156f9c9.png)
 
 
 # Code
