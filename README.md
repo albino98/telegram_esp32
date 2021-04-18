@@ -77,3 +77,7 @@ For the creation of the telegram bot there are many online guides that explain h
 # Code
 
 https://github.com/albino98/telegram_esp32/blob/main/telegram_esp32.ino
+
+# License
+
+https://github.com/albino98/telegram_esp32/blob/5c9600ddb2f9e9213a218b34de959ea35fd503c8/LICENSE
