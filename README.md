@@ -1,3 +1,6 @@
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3JUUFBA5MUU4Q)
+
+
 # Introduction - Introduzione
 ***ENG***
 
@@ -77,6 +80,11 @@ For the creation of the telegram bot there are many online guides that explain h
 # Code
 
 https://github.com/albino98/telegram_esp32/blob/main/telegram_esp32.ino
+
+# Donations
+If you liked the project, offer me a coffee!
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3JUUFBA5MUU4Q)
 
 # License
 
