@@ -50,6 +50,43 @@ Il kit contiene già il Cavo USB2.0 seriale da USB a TTL PL2303TA necessario per
 - Telegram
 
 # Connection schema - Schema di collegamento
+
+![immagine](https://user-images.githubusercontent.com/63566699/170088440-60bc31ad-a117-4b32-97c8-3a7916543ea5.png)
+
+### Connection between the Esp32Cam and the USB to serial cable - Connessione tra l'Esp32Cam e il cavo da USB a seriale
+
+|ESP32-CAM	|USB-to-Serial Cable   	|
+|---		|---			|
+| 5V  |  Red Cable | 
+|  GPIO3 | Green Cable  |
+| GPIO1  | White Cable  |
+| GND | Black Cable|
+
+ :warning: Connect GPIO 0 and GND ports with DuPont cable as following to load the code - Collega GPIO 0 e GND per caricare il codice sull'ESP.
+
+
+|ESP32-CAM	|ESP32-CAM   	|
+|---		|---			|
+|GND	|GPIO0	|
+
+ ⚠️ Remember to disconnect the GPIO 0 and GND ports after loading the code and press the reset button on the Esp to execute the code - Ricorda di disconnettere i pin GPIO 0 e GND dopo aver caricato il codice e premere il tasto reset dell'Esp per eseguire il codice.
+
+
+### Connection between Esp32Cam and PIR - Connessione tra l'Esp32Cam e il sensore di movimento
+
+|ESP32-CAM	|HC-SR501 Human Infrared Sensor  	|
+|---		|---			|
+| 3.3V  |  VCC | 
+| GND  |  GND |
+|  GPIO 13 |  DATA |
+
+
+
+
+![immagine](https://user-images.githubusercontent.com/63566699/170093783-8717bfc4-531f-4480-a1f6-3eef85af5ea0.png)
+
+⚠️ If ESP32 CAM takes pictures frequently. Or never take a picture. Adjust the rotary buttons on the HC-SR501 Human Infrared Sensor - Se il Pir è troppo sensibile e quindi fa scattare troppe fotografie oppure è troppo poco sensibile, regolalo attraverso i pulsanti rotanti.
+
 ![1](https://user-images.githubusercontent.com/63566699/108887900-18ef8400-760b-11eb-9577-83126cc5da7d.jpg)
 
 ![2](https://user-images.githubusercontent.com/63566699/108887553-b4342980-760a-11eb-8a69-92edea0f714c.jpg)
