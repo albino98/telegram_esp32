@@ -119,4 +119,8 @@ For the creation of the telegram bot there are many online guides that explain h
 
 https://github.com/albino98/telegram_esp32/blob/main/telegram_esp32.ino
 
+<a href="https://www.buymeacoffee.com/albyc">
+         <img alt="BuyMeACoffee" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"
+         style="height: 30px !important; width: 150px !important">
+      </a>
 
